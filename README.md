@@ -16,6 +16,8 @@ Instead, it use native WebView (WebKit for Linux/macOS, and MSHTML on Windows), 
 
 The whole source code in this repository is just a desktop client, which you can actually use for **any** web-based application.
 
+_Note: I maintain my own version of [zserge/webview](https://github.com/zserge/webview) and [Boscop/web-view](https://github.com/Boscop/web-view), because I want to add some customized titlebar on macOS, and my code is ugly enough to create a PR on these repos._
+
 ## Instruction
 
 ### Step 1: Build the web application
