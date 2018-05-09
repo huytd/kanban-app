@@ -55,7 +55,7 @@ Now you got it.
 
 ## Wait, what happened?
 
-Well, the Elm application will be compiled into a single `dist.js** file, the content of this JavaScript file will be inlined into our Rust source code:
+Well, the Elm application will be compiled into a single `dist.js` file, the content of this JavaScript file will be inlined into our Rust source code:
 
 **src/main.rs**
 ```rust
